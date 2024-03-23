@@ -1,2 +1,2 @@
-# BattleSeaDesktop
-BattleSeaDesktop
+# Морской бой
+Java Swing + PostgreSQL
