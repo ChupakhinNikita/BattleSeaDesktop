@@ -1,12 +1,13 @@
 package org.example.views;
 
-import org.example.battlesea.controllers.Controller;
-import org.example.battlesea.models.Model;
-import org.example.battlesea.models.Ship;
-import org.example.battlesea.views.panels.ChoosePanel;
-import org.example.battlesea.views.panels.EnemyField;
-import org.example.battlesea.views.panels.MyField;
-import org.example.battlesea.views.panels.PanelButtons;
+import org.example.controllers.Controller;
+import org.example.models.Frame;
+import org.example.models.Model;
+import org.example.models.Ship;
+import org.example.views.panels.ChoosePanel;
+import org.example.views.panels.EnemyField;
+import org.example.views.panels.MyField;
+import org.example.views.panels.PanelButtons;
 
 import javax.swing.*;
 import java.awt.*;

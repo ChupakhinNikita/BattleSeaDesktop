@@ -1,6 +1,6 @@
 package org.example.models;
 
-import org.example.battlesea.views.Picture;
+import org.example.views.Picture;
 
 import java.io.Serializable;
 import java.util.ArrayList;

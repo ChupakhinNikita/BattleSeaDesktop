@@ -1,8 +1,8 @@
 package org.example.connections;
 
-import org.example.battlesea.models.Frame;
-import org.example.battlesea.models.Ship;
-import org.example.battlesea.views.View;
+import org.example.models.Frame;
+import org.example.models.Ship;
+import org.example.views.View;
 
 import java.io.IOException;
 import java.net.ServerSocket;

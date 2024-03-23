@@ -2,7 +2,7 @@ package org.example.models;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.example.battlesea.views.Picture;
+import org.example.views.Picture;
 
 import java.io.Serializable;
 

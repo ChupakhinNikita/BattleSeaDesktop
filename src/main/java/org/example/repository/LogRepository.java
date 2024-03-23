@@ -1,6 +1,6 @@
 package org.example.repository;
 
-import org.example.battlesea.entity.Log;
+import org.example.entity.Log;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

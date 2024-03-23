@@ -1,15 +1,15 @@
 package org.example.controllers;
 
-import org.example.battlesea.connections.Connection;
-import org.example.battlesea.connections.Message;
-import org.example.battlesea.connections.MessageType;
-import org.example.battlesea.connections.Server;
-import org.example.battlesea.models.Frame;
-import org.example.battlesea.models.Model;
-import org.example.battlesea.models.Ship;
-import org.example.battlesea.sound.Sound;
-import org.example.battlesea.views.Picture;
-import org.example.battlesea.views.View;
+import org.example.connections.Connection;
+import org.example.connections.Message;
+import org.example.connections.MessageType;
+import org.example.connections.Server;
+import org.example.models.Frame;
+import org.example.models.Model;
+import org.example.models.Ship;
+import org.example.sound.Sound;
+import org.example.views.Picture;
+import org.example.views.View;
 
 import javax.swing.*;
 import java.io.IOException;

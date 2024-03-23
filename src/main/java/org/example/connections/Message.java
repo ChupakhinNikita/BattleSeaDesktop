@@ -2,8 +2,8 @@ package org.example.connections;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.example.battlesea.models.Frame;
-import org.example.battlesea.models.Ship;
+import org.example.models.Frame;
+import org.example.models.Ship;
 
 import java.io.Serializable;
 import java.util.List;

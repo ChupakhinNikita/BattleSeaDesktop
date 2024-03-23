@@ -1,7 +1,7 @@
 package org.example.views.panels;
 
-import org.example.battlesea.views.Picture;
-import org.example.battlesea.views.View;
+import org.example.views.Picture;
+import org.example.views.View;
 
 import javax.swing.*;
 import java.awt.*;
